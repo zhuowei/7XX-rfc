@@ -22,6 +22,7 @@ We humbly suggest the following status codes are included in the HTTP spec in th
     - 725 - It works on my machine
     - 726 - It's a feature, not a bug
     - 727 - 32 bits is plenty
+    - 728 - Golgafrinchans not compatible with this program
   * 73X - Fucking
     - 731 - Fucking Rubygems
     - 732 - Fucking Unicode
